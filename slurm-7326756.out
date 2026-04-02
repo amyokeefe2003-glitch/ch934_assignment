@@ -1,0 +1,22 @@
+===================================================================================
+SLURM Job ID:            7326756
+Submit time:             Thu Apr 02 20:34:38 BST 2026 (Unix Epoch time: 1775158478)
+Start time:              Thu Apr 02 20:34:49 BST 2026 (Unix Epoch time: 1775158489)
+No. nodes:               1
+No. tasks:               2
+Job name:                gauss_2cores
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/rmb20171/ch934_assignment
+Script name:             /users/rmb20171/ch934_assignment/gauss_script.sh
+Master node:             wee20
+Nodes used:              wee20
+Task distribution:       cyclic
+===================================================================================
+
+===================================================================================
+SLURM job 7326756 ended:     Thu Apr 02 20:46:25 BST 2026 (Unix Epoch time: 1775159185)
+This is an estimated end time using the 'date' command from node wee20.hpc.strath.ac.uk
+For accurate timings, use 'sacct -j 7326756 -X --format=Submit,Start,End,Elapsed'
+======================================================================================
