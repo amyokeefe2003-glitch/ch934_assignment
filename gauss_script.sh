@@ -11,7 +11,7 @@ module purge
 module load gaussian/g16
 /opt/software/scripts/job_prologue.sh
 export GAUSS_SCRDIR=$SLURM_SUBMIT_DIR
-g16 < Molecule_ANTCEN.com > Molecule_ANTCEN.log
-g16 < Molecule_PENCEN.com > Molecule_PENCEN.log
-g16 < Molecule_TETCEN.com > Molecule_TETCEN.log
+g16 < Molecule_ANTCEN.com > Molecule_ANTCEN_4cores.log
+g16 < Molecule_PENCEN.com > Molecule_PENCEN_4cores.log
+g16 < Molecule_TETCEN.com > Molecule_TETCEN_4cores.log
 /opt/software/scripts/job_epilogue.sh
