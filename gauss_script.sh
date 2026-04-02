@@ -3,7 +3,7 @@
 #SBATCH --partition=teaching
 #SBATCH --account=teaching
 #SBATCH --distribution=cyclic
-#SBATCH --ntasks=2 --nodes=1
+#SBATCH --ntasks=4 --nodes=1
 #SBATCH --time=01:00:00
 #SBATCH --job-name=gauss_2cores
 #SBATCH --output=slurm-%j.out
