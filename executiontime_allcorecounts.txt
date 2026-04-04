@@ -1,0 +1,12 @@
+./16core_outputs/Molecule_ANTCEN_16cores.log: Job cpu time:       0 days  0 hours  3 minutes 16.3 seconds.
+./16core_outputs/Molecule_TETCEN_16cores.log: Job cpu time:       0 days  0 hours  4 minutes 15.7 seconds.
+./16core_outputs/Molecule_PENCEN_16cores.log: Job cpu time:       0 days  0 hours  7 minutes 46.6 seconds.
+./4core_outputs/Molecule_ANTCEN_4cores.log: Job cpu time:       0 days  0 hours  4 minutes 43.8 seconds.
+./4core_outputs/Molecule_TETCEN_4cores.log: Job cpu time:       0 days  0 hours  6 minutes 13.4 seconds.
+./4core_outputs/Molecule_PENCEN_4cores.log: Job cpu time:       0 days  0 hours 11 minutes  6.7 seconds.
+./8core_outputs/Molecule_PENCEN_8cores.log: Job cpu time:       0 days  0 hours  9 minutes 13.9 seconds.
+./8core_outputs/Molecule_ANTCEN_8cores.log: Job cpu time:       0 days  0 hours  4 minutes  2.2 seconds.
+./8core_outputs/Molecule_TETCEN_8cores.log: Job cpu time:       0 days  0 hours  5 minutes 11.2 seconds.
+./2core_outputs/Molecule_TETCEN_2cores.log: Job cpu time:       0 days  0 hours  6 minutes 21.2 seconds.
+./2core_outputs/Molecule_ANTCEN_2cores.log: Job cpu time:       0 days  0 hours  4 minutes 54.3 seconds.
+./2core_outputs/Molecule_PENCEN_2cores.log: Job cpu time:       0 days  0 hours 11 minutes 21.4 seconds.
